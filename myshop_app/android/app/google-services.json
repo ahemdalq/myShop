@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334436475251",
+    "project_id": "ahqee-shop",
+    "storage_bucket": "ahqee-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334436475251:android:76e0fb16c544e859e76506",
+        "android_client_info": {
+          "package_name": "com.example.myshop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334436475251-k367dbl5tdhbpptd2u1t58d76t5da9fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnLoF3s5Qq7JEzYXWNs2bMjPZ0dF0v8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334436475251-k367dbl5tdhbpptd2u1t58d76t5da9fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
